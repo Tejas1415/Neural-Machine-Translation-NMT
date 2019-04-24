@@ -15,7 +15,9 @@ In your Colab environment - choose runtime >> change_runtime_type >> choose GPU.
 
 Once you download the data, just upload it in your gmail/google drive and share that "link" in the code to access the data. And the rest are good to go. 
 
-Run the code. 
+Run the code.
+
+The train funciton in program has no specific fucntion. Neglect it. 
 
 In the same link you can also find English-Czech, English-German, and English-Vietnamese datasets too. Same code can be used to train them too. 
 
