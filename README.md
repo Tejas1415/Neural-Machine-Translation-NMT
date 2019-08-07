@@ -1,9 +1,11 @@
 # Neural-Machine-Translation-NMT
 #### Author - Tejas Krishna Reddy 
 
-##### Firstly, If you get "Sorry, something went wrong! Reload?" error to open the code, kindly paste the github link 
+##### Firstly, If you get "Sorry, something went wrong! Reload?" error to open the code, kindly paste - 
 ```
-https://github.com/Tejas1415/Neural-Machine-Translation-NMT/blob/master/NMT_icode.ipynb) in https://nbviewer.jupyter.org/
+https://github.com/Tejas1415/Neural-Machine-Translation-NMT/blob/master/NMT_icode.ipynb
+in
+https://nbviewer.jupyter.org/
 ```
 
 Using Google Colab, we develop a NMT, language translator. Here, we do NMT to translate from English to Vietnamese.  
